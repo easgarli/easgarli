@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @easgarli
-- 👀 I’m interested in learning programming for automation daily tasks.
-- 🌱 I’m currently studying Google IT Automation with Python Professional Certificate.
+- 👀 I’m interested in learning programming for automation daily tasks and DataScience.
+- 🌱 I’m currently studying DataScience course by TechPro Education and IBM DataScience specialization.
 - 💞️ I’m looking to collaborate on beginner Python projects.
 - 📫 How to reach me e.asgarli at gmail
 
